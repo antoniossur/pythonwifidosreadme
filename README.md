@@ -83,3 +83,6 @@ sudo python3 (name).py
 Thanks to David Bombal for the scripts. <br>
 <br>
 © All rights reserved to David Bombal. <br>
+<br>
+If you need help, watch this video by David Bombal: <br>
+https://www.youtube.com/watch?v=iGXB5NanUK4
